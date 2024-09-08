@@ -1,0 +1,35 @@
+<!DOCTYPE html> <!--passa para o nevagador que eu estou usando um arquivo em html-->
+<html lang="pt-br"> <!--linguagem do site-->
+<head> <!--Onde todas as informações para o navegador vão ser colocadas, ou seja, metadados-->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tema</title>
+    <link rel="stylesheet" href="styles.css"> <!--chamar o css-->
+</head>
+<body> <!--corpo da pagina, o que vai aparecer o site-->
+
+    <header> <!--cabeçalho-->
+        <h1>Raízes Trançadas </h1> <!--titulo-->
+    </header>
+
+    <main> <!--corpo-->
+        <section><!--divisão do main,sao parecidos com os divs que são os filhos-->
+            <input type="text" placeholder="Busque sua trança favorita" id="pesquiza"><!--o id e uma forma de chamar esse input dentro do o javaScript-->
+            <button onclick="buscar()"> Buscar</button> <!--onclick é uma forma que o javascript entende que alfgo foi clicado o html-->
+        </section>
+        <section class="resultados-pesquisa" id="resultados"> <!--o id e uma forma de chamar essa section dentro do o javaScript-->
+        
+        </section>
+    </main>
+
+    <footer><!--rodape-->
+        <p>2024 -  Raízes Trançadas . Todos os direitos reservados
+            <br>
+            Entre em contato pelo email:raizestrancadas@gmail.com
+        </p> <!--parágrafo-->
+    </footer>
+<!--conectando o html com o javascript-->
+    <script src="dados.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
