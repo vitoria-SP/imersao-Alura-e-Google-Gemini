@@ -1,22 +1,42 @@
-**Raízes Trançadas - As histórias por trás da beleza das tranças!!**
+## ‍♀️ Raízes Trançadas: Seu Guia Completo para Tranças ‍♀️
 --------------------------------------------------------------------
 
 Imersão Alura + Google gemini!
 
-Conheça um pouco mais sobre as famosas tranças, aprofundando-se na sua rica história!! Pesquize as suas favoritas e se encante por novas. 
 
-**O que é esse projeto?**
+### Sobre o Projeto
+Raízes Trançadas é um projeto apaixonante que tem como objetivo conectar amantes de tranças a um mundo de inspirações e informações. Aqui, você encontra tutoriais, dicas e uma ferramenta de busca para encontrar o estilo perfeito para você!
 
-Prepare-se para ficar encantado com a beleza de uma trança! Este projeto é uma aolicação que te permite conhecer e tirar duvidas sobre a história da sua trança favorita, além de dar ideias de novas.
+
+###  Buscando Novas Tranças?
+Digite o nome da trança que você procura e explore um mundo de possibilidades!
+
 
 **Como funciona?**
 
-Pesquize: Digite o tipo de trança ou alguma caracterista da trança e clique em buscar.
-Explore: Os resultados da sua pesqiza conteram imagens,titulos(nomes das tranças),descrições e links para uma história mais completa de cada trança.
-Descubra: Ao clicar link "Saiba mais" você será direcionado para uma pagina que contém a história de cada trança.
+* Pesquize: Digite o tipo de trança ou alguma caracterista da trança e clique em buscar.
+* Explore: Os resultados da sua pesqiza conteram imagens,titulos(nomes das tranças),descrições e links para uma história mais completa de cada trança.
+* Descubra: Ao clicar link "Saiba mais" você será direcionado para uma pagina que contém a história de cada trança.
 
-**Tecnologias utilizadas**
 
-HTML: Estrutura da página.
-CSS: Daixar tudo mais visualmente bonito e organizado
-JavaScript: A magia por trás da pesquisa e exibição dos resultados.
+**Contribuidores:**
+* Vitória Santos Pereiras
+
+###  Tecnologias Utilizadas
+* **HTML5:** A base de tudo, estrutura do nosso site.
+* **CSS3:** Para deixar tudo bonitinho e estilizado.
+* **JavaScript:** A mágica por trás da busca e interatividade.
+
+###  Links Úteis
+**Demonstração:** https://imersao-alura-e-google-gemini.vercel.app/
+
+*Todas as imagens usadas estão em domínio píblico.
+
+**Agradecimentos:**
+Agradecemos a todos que contribuíram para este projeto! Se você gostou, deixe uma estrelinha ⭐ no repositório!
+
+
+
+
+
+
