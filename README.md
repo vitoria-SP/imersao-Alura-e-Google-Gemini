@@ -15,12 +15,12 @@ Digite o nome da trança que você procura e explore um mundo de possibilidades!
 **Como funciona?**
 
 * Pesquize: Digite o tipo de trança ou alguma caracterista da trança e clique em buscar.
-* Explore: Os resultados da sua pesqiza conteram imagens,titulos(nomes das tranças),descrições e links para uma história mais completa de cada trança.
+* Explore: Os resultados da sua pesquiza conteram imagens,titulos(nomes das tranças),descrições e links para uma história mais completa de cada trança.
 * Descubra: Ao clicar link "Saiba mais" você será direcionado para uma pagina que contém a história de cada trança.
 
 
 **Contribuidores:**
-* Vitória Santos Pereiras
+* Vitória Santos Pereira
 
 ###  Tecnologias Utilizadas
 * **HTML5:** A base de tudo, estrutura do nosso site.
